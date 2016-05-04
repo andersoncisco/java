@@ -10,10 +10,10 @@ public class java1 {
 	
 	System.out.println("anderson");
 	
-	Double valor;
+	Double valo;
 	Scanner t = new Scanner(System.in);
 	System.out.println("digite seu nome");
-	valor=t.nextDouble();
+	valo=t.nextDouble();
 	
 	}
 
